@@ -1,0 +1,55 @@
+Number of instances and number of attributes in Phishing Data Set dataset are 11055 and 30
+Accuracy of Phishing Data Set after running with Decision Tree  algorithm 1 time is 0.966983
+Accuracy of Phishing Data Set after running with Perceptron  algorithm 1 time is 0.822705
+Accuracy of Phishing Data Set after running with Support Vector Machines algorithm 1 time is 0.951606
+Accuracy of Phishing Data Set after running with Naive Bayes algorithm 1 time is 0.599276
+Accuracy of Phishing Data Set after running with Neural Network  algorithm 1 time is 0.932610
+Accuracy of Phishing Data Set after running with Decision Tree  algorithm 2 time is 0.958390
+Accuracy of Phishing Data Set after running with Perceptron  algorithm 2 time is 0.910900
+Accuracy of Phishing Data Set after running with Support Vector Machines algorithm 2 time is 0.944369
+Accuracy of Phishing Data Set after running with Naive Bayes algorithm 2 time is 0.582994
+Accuracy of Phishing Data Set after running with Neural Network  algorithm 2 time is 0.922659
+Number of instances and number of attributes in Breast Cancer Diagnostic Data Set dataset are 569 and 31
+Accuracy of Breast Cancer Diagnostic Data Set after running with Decision Tree  algorithm 1 time is 0.921053
+Accuracy of Breast Cancer Diagnostic Data Set after running with Perceptron  algorithm 1 time is 0.333333
+Accuracy of Breast Cancer Diagnostic Data Set after running with Support Vector Machines algorithm 1 time is 0.666667
+Accuracy of Breast Cancer Diagnostic Data Set after running with Naive Bayes algorithm 1 time is 0.666667
+Accuracy of Breast Cancer Diagnostic Data Set after running with Neural Network  algorithm 1 time is 0.666667
+Accuracy of Breast Cancer Diagnostic Data Set after running with Decision Tree  algorithm 2 time is 0.929825
+Accuracy of Breast Cancer Diagnostic Data Set after running with Perceptron  algorithm 2 time is 0.377193
+Accuracy of Breast Cancer Diagnostic Data Set after running with Support Vector Machines algorithm 2 time is 0.622807
+Accuracy of Breast Cancer Diagnostic Data Set after running with Naive Bayes algorithm 2 time is 0.614035
+Accuracy of Breast Cancer Diagnostic Data Set after running with Neural Network  algorithm 2 time is 0.622807
+Number of instances and number of attributes in Credit Card Approval DataSet dataset are 30000 and 23
+Accuracy of Credit Card Approval DataSet after running with Decision Tree  algorithm 1 time is 0.724833
+Accuracy of Credit Card Approval DataSet after running with Perceptron  algorithm 1 time is 0.770333
+Accuracy of Credit Card Approval DataSet after running with Support Vector Machines algorithm 1 time is 0.781333
+Accuracy of Credit Card Approval DataSet after running with Naive Bayes algorithm 1 time is 0.386333
+Accuracy of Credit Card Approval DataSet after running with Neural Network  algorithm 1 time is 0.781000
+Accuracy of Credit Card Approval DataSet after running with Decision Tree  algorithm 2 time is 0.730333
+Accuracy of Credit Card Approval DataSet after running with Perceptron  algorithm 2 time is 0.304333
+Accuracy of Credit Card Approval DataSet after running with Support Vector Machines algorithm 2 time is 0.780667
+Accuracy of Credit Card Approval DataSet after running with Naive Bayes algorithm 2 time is 0.381333
+Accuracy of Credit Card Approval DataSet after running with Neural Network  algorithm 2 time is 0.781167
+Number of instances and number of attributes in Transfusion Data Set dataset are 748 and 4
+Accuracy of Transfusion Data Set after running with Decision Tree  algorithm 1 time is 0.693333
+Accuracy of Transfusion Data Set after running with Perceptron  algorithm 1 time is 0.806667
+Accuracy of Transfusion Data Set after running with Support Vector Machines algorithm 1 time is 0.786667
+Accuracy of Transfusion Data Set after running with Naive Bayes algorithm 1 time is 0.746667
+Accuracy of Transfusion Data Set after running with Neural Network  algorithm 1 time is 0.806667
+Accuracy of Transfusion Data Set after running with Decision Tree  algorithm 2 time is 0.653333
+Accuracy of Transfusion Data Set after running with Perceptron  algorithm 2 time is 0.753333
+Accuracy of Transfusion Data Set after running with Support Vector Machines algorithm 2 time is 0.753333
+Accuracy of Transfusion Data Set after running with Naive Bayes algorithm 2 time is 0.753333
+Accuracy of Transfusion Data Set after running with Neural Network  algorithm 2 time is 0.753333
+Number of instances and number of attributes in Ionosphere Data Set dataset are 351 and 34
+Accuracy of Ionosphere Data Set after running with Decision Tree  algorithm 1 time is 0.845070
+Accuracy of Ionosphere Data Set after running with Perceptron  algorithm 1 time is 0.774648
+Accuracy of Ionosphere Data Set after running with Support Vector Machines algorithm 1 time is 0.943662
+Accuracy of Ionosphere Data Set after running with Naive Bayes algorithm 1 time is 0.901408
+Accuracy of Ionosphere Data Set after running with Neural Network  algorithm 1 time is 0.676056
+Accuracy of Ionosphere Data Set after running with Decision Tree  algorithm 2 time is 0.873239
+Accuracy of Ionosphere Data Set after running with Perceptron  algorithm 2 time is 0.774648
+Accuracy of Ionosphere Data Set after running with Support Vector Machines algorithm 2 time is 0.887324
+Accuracy of Ionosphere Data Set after running with Naive Bayes algorithm 2 time is 0.873239
+Accuracy of Ionosphere Data Set after running with Neural Network  algorithm 2 time is 0.633803Number of instances and number of attributes in Phishing Data Set dataset are 11055 and 30Accuracy of Phishing Data Set after running with Decision Tree  algorithm 1 time is 0.966531Accuracy of Phishing Data Set after running with Perceptron  algorithm 1 time is 0.822705Accuracy of Phishing Data Set after running with Support Vector Machines algorithm 1 time is 0.951606Accuracy of Phishing Data Set after running with Naive Bayes algorithm 1 time is 0.599276Accuracy of Phishing Data Set after running with Neural Network  algorithm 1 time is 0.932610Accuracy of Phishing Data Set after running with Decision Tree  algorithm 2 time is 0.958390Accuracy of Phishing Data Set after running with Perceptron  algorithm 2 time is 0.910900Accuracy of Phishing Data Set after running with Support Vector Machines algorithm 2 time is 0.944369Accuracy of Phishing Data Set after running with Naive Bayes algorithm 2 time is 0.582994Accuracy of Phishing Data Set after running with Neural Network  algorithm 2 time is 0.922659Number of instances and number of attributes in Breast Cancer Diagnostic Data Set dataset are 569 and 31Accuracy of Breast Cancer Diagnostic Data Set after running with Decision Tree  algorithm 1 time is 0.929825Accuracy of Breast Cancer Diagnostic Data Set after running with Perceptron  algorithm 1 time is 0.333333Accuracy of Breast Cancer Diagnostic Data Set after running with Support Vector Machines algorithm 1 time is 0.666667Accuracy of Breast Cancer Diagnostic Data Set after running with Naive Bayes algorithm 1 time is 0.666667Accuracy of Breast Cancer Diagnostic Data Set after running with Neural Network  algorithm 1 time is 0.666667Accuracy of Breast Cancer Diagnostic Data Set after running with Decision Tree  algorithm 2 time is 0.938596Accuracy of Breast Cancer Diagnostic Data Set after running with Perceptron  algorithm 2 time is 0.377193Accuracy of Breast Cancer Diagnostic Data Set after running with Support Vector Machines algorithm 2 time is 0.622807Accuracy of Breast Cancer Diagnostic Data Set after running with Naive Bayes algorithm 2 time is 0.614035Accuracy of Breast Cancer Diagnostic Data Set after running with Neural Network  algorithm 2 time is 0.622807Number of instances and number of attributes in Credit Card Approval DataSet dataset are 30000 and 23Accuracy of Credit Card Approval DataSet after running with Decision Tree  algorithm 1 time is 0.721500Accuracy of Credit Card Approval DataSet after running with Perceptron  algorithm 1 time is 0.770333Accuracy of Credit Card Approval DataSet after running with Support Vector Machines algorithm 1 time is 0.781333Accuracy of Credit Card Approval DataSet after running with Naive Bayes algorithm 1 time is 0.386333Accuracy of Credit Card Approval DataSet after running with Neural Network  algorithm 1 time is 0.781000Accuracy of Credit Card Approval DataSet after running with Decision Tree  algorithm 2 time is 0.723833Accuracy of Credit Card Approval DataSet after running with Perceptron  algorithm 2 time is 0.304333Accuracy of Credit Card Approval DataSet after running with Support Vector Machines algorithm 2 time is 0.780667Accuracy of Credit Card Approval DataSet after running with Naive Bayes algorithm 2 time is 0.381333Accuracy of Credit Card Approval DataSet after running with Neural Network  algorithm 2 time is 0.781167Number of instances and number of attributes in Transfusion Data Set dataset are 748 and 4Accuracy of Transfusion Data Set after running with Decision Tree  algorithm 1 time is 0.686667Accuracy of Transfusion Data Set after running with Perceptron  algorithm 1 time is 0.806667Accuracy of Transfusion Data Set after running with Support Vector Machines algorithm 1 time is 0.786667Accuracy of Transfusion Data Set after running with Naive Bayes algorithm 1 time is 0.746667Accuracy of Transfusion Data Set after running with Neural Network  algorithm 1 time is 0.806667Accuracy of Transfusion Data Set after running with Decision Tree  algorithm 2 time is 0.653333Accuracy of Transfusion Data Set after running with Perceptron  algorithm 2 time is 0.753333Accuracy of Transfusion Data Set after running with Support Vector Machines algorithm 2 time is 0.753333Accuracy of Transfusion Data Set after running with Naive Bayes algorithm 2 time is 0.753333Accuracy of Transfusion Data Set after running with Neural Network  algorithm 2 time is 0.753333Number of instances and number of attributes in Ionosphere Data Set dataset are 351 and 34Accuracy of Ionosphere Data Set after running with Decision Tree  algorithm 1 time is 0.845070Accuracy of Ionosphere Data Set after running with Perceptron  algorithm 1 time is 0.774648Accuracy of Ionosphere Data Set after running with Support Vector Machines algorithm 1 time is 0.943662Accuracy of Ionosphere Data Set after running with Naive Bayes algorithm 1 time is 0.901408Accuracy of Ionosphere Data Set after running with Neural Network  algorithm 1 time is 0.676056Accuracy of Ionosphere Data Set after running with Decision Tree  algorithm 2 time is 0.873239Accuracy of Ionosphere Data Set after running with Perceptron  algorithm 2 time is 0.774648Accuracy of Ionosphere Data Set after running with Support Vector Machines algorithm 2 time is 0.887324Accuracy of Ionosphere Data Set after running with Naive Bayes algorithm 2 time is 0.873239Accuracy of Ionosphere Data Set after running with Neural Network  algorithm 2 time is 0.633803
